@@ -15,3 +15,4 @@ Learning chapters - OpenCV - Basic operators, codes, and basic projects
 ## - Splitting and merging color channels
 ## - thresholding
 ## - transformations
+## - Face Detecting project
