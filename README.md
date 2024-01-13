@@ -14,4 +14,4 @@ Learning chapters - OpenCV - Basic operators, codes, and basic projects
 ## - Colour spaces
 ## - Splitting and merging color channels
 ## - thresholding
-## - trasnformations
+## - transformations
